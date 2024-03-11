@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/search" />
+
+    <item
+        android:id="@+id/add"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/add" />
+
+    <item
+        android:id="@+id/reel"
+        android:icon="@drawable/baseline_video_camera_back_24"
+        android:title="@string/reel" />
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:title="@string/add" />
+
+
+</menu>
